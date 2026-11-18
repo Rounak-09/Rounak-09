@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rounak Abraham</h1>
 <h3 align="center">A passionate backend developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://rounak-09.github.io/My-Portfolio/](https://rounak-09.github.io/My-Portfolio/)
+- 👨‍💻 All of my projects are available at [https://rounakabraham.com](https://rounakabraham.com)
 
 - 📝 I regularly write articles on [https://medium.com/@rounakabraham](https://medium.com/@rounakabraham)
 
-- 💬 Ask me about **java, springboot and rest api**
+- 💬 Ask me about **java, springboot and microservices**
 
 - 📫 How to reach me **rounakabraham@gmail.com**
 
